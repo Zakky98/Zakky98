@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zakky98
+- 👋 Hi, I’m Zak
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on projects involving above languages
