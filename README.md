@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zak
+- 👋 Zak Wilson
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning JS, React, Angular and Bash
 - 💞️ I’m looking to collaborate on projects involving above languages
