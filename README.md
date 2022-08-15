@@ -1,6 +1,6 @@
 - 👋 Zak Wilson
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JS, React, Angular and Bash
+- 👀 I’m a Developer
+- 🌱 I’m currently learning Angular, C# and SQL
 - 💞️ I’m looking to collaborate on projects involving above languages
 - 📫 How to reach me: Email - zakwilson111098@gmail.com
 
